@@ -61,7 +61,7 @@ Tujuannya mengevaluasi kinerja bisnis Kimia Farma tahun 2020-2023 menggunakan Go
 | > Rp 500.000 | 30% |
 
 ## Dashboard
-- Dashboard Looker Studio: 
+- Dashboard Looker Studio: https://datastudio.google.com/reporting/99712dc1-d587-4931-8493-8161c71e3c79
 
 ## Author
 Nita Rahmawati
